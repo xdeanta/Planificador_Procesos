@@ -7,8 +7,9 @@
 
 #include "list.h"
 
-// Xavier De Anta CI:23634649
-// Johan Velasquez CI:21759251
+//Autores:
+// Xavier De Anta
+// Johan Velasquez
 
 typedef struct _PCB{
 	int id;
